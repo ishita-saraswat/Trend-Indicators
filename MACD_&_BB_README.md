@@ -1,4 +1,4 @@
-# Trend-Indicators-
+# MACD and B-Bands Strategy-
 A trend indicator shows how the value of one column compares to the value of another column. Trend indicators convey whether performance is improving or getting worse, not going up or going down. You can determine performance at a glance without having to decide whether an increase is good or bad.
 MACD ia a trend-following momentum indicator which uses two lines - MACD and signal line, and the crossover of these two lines indicate us about bearish or bullish momentum in the market.
 Bollinger Bands or B-Bands is an indicator which gives any trader a range in which the price of the asset tends to move.
