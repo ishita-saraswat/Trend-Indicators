@@ -1,7 +1,10 @@
-# MACD and B-Bands Strategy-
-A trend indicator shows how the value of one column compares to the value of another column. Trend indicators convey whether performance is improving or getting worse, not going up or going down. You can determine performance at a glance without having to decide whether an increase is good or bad.
-MACD ia a trend-following momentum indicator which uses two lines - MACD and signal line, and the crossover of these two lines indicate us about bearish or bullish momentum in the market.
-Bollinger Bands or B-Bands is an indicator which gives any trader a range in which the price of the asset tends to move.
-In this project, we have used these two indicators and have generated returns of different country's market indices by using three different strategies.
-Firstly, we have used these two indicators on standalone basis after which we have combined these two indicators to make a new strategy.
-We have also compared all the three strategies and have completed a detailed analysis on the returns generated on different markets and different timeframes.
+# MACD and B-Bands 
+# Preface -
+The project deals with comparing different strategies using multiple indicators as well as using them on standalone basis. 
+The indicators used here are 'MACD' and 'Bollinger Bands'
+In this project, we have generated returns using three different strategies - two strategies using only MACD and B-Bands on standalone basis and one strategy by combining both of them.
+A detailed study on the returns genrated has also been done at the end of the project.
+# Results -
+It can be easily seen that our third strategy in which both the indicators are comnbined to get buy and sell signals gives much higher returns than the other two strategies.
+Using this project, it can also be proved that the strategies which work well on most of the markets doesn't work well on the Chinese markets as they generally do not follow the global trends.
+It was also found that the strategies we have discussed here works well only on long time periods, preferrably 2 years or more.
